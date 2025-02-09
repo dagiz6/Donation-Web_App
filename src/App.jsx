@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './Pages/NavBar/Navbar';
 import WelcomeScreen from './Pages/WelcomeScreen/WelcomeScreen';
 import DonationForm from './Pages/DonationForm/DonationForm';
