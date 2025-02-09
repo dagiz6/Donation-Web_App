@@ -26,12 +26,11 @@ const styles = {
     buttons: {
         padding: '0.75rem',
         fontSize: '1rem',
-        backgroundColor: '#007BFF',
+        backgroundColor: '#980fcf',
         color: '#fff',
         border: 'none',
         borderRadius: '4px',
         cursor: 'pointer',
-        marginLeft: '3.7rem',
       },}
 
 export default Payment
