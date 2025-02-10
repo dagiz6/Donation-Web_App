@@ -4,7 +4,7 @@ import Navbar from './Pages/NavBar/Navbar';
 import WelcomeScreen from './Pages/WelcomeScreen/WelcomeScreen';
 import DonationForm from './Pages/DonationForm/DonationForm';
 import AboutUs from './Pages/AboutUs/AboutUs';
-import ThankYou from './Pages/ThankYou/Thankyou';
+import ThankYou from './Pages/ThankYou/ThankYou.jsx';
 
 function App() {
   return (
